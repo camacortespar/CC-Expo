@@ -1,6 +1,6 @@
 # Simulating Molecules using VQE
 
-Código para determinar la energía del estado fundamental de la molécula LiH utilizando el algoritmo cúantico VQE.
+Códigos para la determinación de la energía del estado fundamental de la molécula LiH utilizando el algoritmo cúantico VQE.
 
 -----
 
